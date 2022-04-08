@@ -142,6 +142,7 @@ mi_tupla='Gaspar', 5, 8, 1999
 >>> print("Nombre: ", nombre, " - Dia:", dia, " - Mes: ", mes, " - Año: ", año)
 Nombre:  Gaspar  - Dia: 5  - Mes:  8  - Año:  1999
 ```
+
 * Convertir una tupla en una lista 
 ```python
 mi_lista=list(mi_tupla)
