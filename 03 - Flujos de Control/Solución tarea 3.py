@@ -113,7 +113,7 @@ def numeros_primos(x):
                 j+=1
     return(primos)
 
-n=30
+n=100000
 print('Los números primos menores o iguales a', n, 'son: ', str(numeros_primos(n))[1:-1])
 
 print('\n  10. ¿Se puede mejorar el proceso del punto 9? Utilizar las sentencias break y/ó continue para tal fin\n')
